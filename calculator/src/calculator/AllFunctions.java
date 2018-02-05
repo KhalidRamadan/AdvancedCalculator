@@ -1,4 +1,4 @@
-package calculator;
+package src.calculator;
 
 import java.math.*;
 //class contain all executions of The functions(SingleParameter && DoubleParameter)
